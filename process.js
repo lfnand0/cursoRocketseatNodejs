@@ -5,3 +5,9 @@ console.log(process.argv)
 
 
 // running node process --name "Luiz Fernando" --greeting "Tudo bem?" prints the flags --name and --greeting inside the array
+
+// const firstName = process.argv[2]
+// const lastName = process.argv[3]
+
+// console.log(`Seu nome é ${firstName} ${lastName}`)
+
